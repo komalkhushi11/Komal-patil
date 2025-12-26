@@ -1,6 +1,6 @@
-## 👩‍💻 Komal Patil | Frontend Developer
+ Komal Patil 
 
-### 📌 Projects
+📌 Projects
 🔹 Amazon Clone 
 🔗 https://komalkhushi11.github.io/Amazon-Project-/
 
