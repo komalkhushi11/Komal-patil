@@ -2,7 +2,7 @@
 
 📌 Projects
 🔹BuyFlux 
-🔗komalkhushi11.github.io/BuyFlux-Project/
+🔗 https://komalkhushi11.github.io/BuyFlux-Project/
 
 🔹 Tic Tac Toe Game  
 🔗 https://komalkhushi11.github.io/Tic-Tac-Toe-Game/
