@@ -1,7 +1,8 @@
  Komal Patil 
 
 📌 Projects
-
+🔹BuyFlux 
+🔗
 🔹 Tic Tac Toe Game  
 🔗 https://komalkhushi11.github.io/Tic-Tac-Toe-Game/
 
