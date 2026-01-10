@@ -1,14 +1,15 @@
  Komal Patil 
 
 📌 Projects
+<br>
 🔹BuyFlux 
-🔗 https://komalkhushi11.github.io/BuyFlux-Project/
+🔗https://komalpatil-hub.github.io/BuyFlux-Project/
 
 🔹 Tic Tac Toe Game  
-🔗 https://komalkhushi11.github.io/Tic-Tac-Toe-Game/
+🔗 https://komalpatil-hub.github.io/Tic-Tac-Toe-Game/
 
 🔹 Rock Paper Scissors  
-🔗https://komalkhushi11.github.io/Rock-Paper-Scissors-game/
+🔗https://komalpatil-hub.github.io/Rock-Paper-Scissors-game/
 
 🔹 Registration Form  
-🔗https://komalkhushi11.github.io/Registration-form/
+🔗https://komalpatil-hub.github.io/Registration-form/
